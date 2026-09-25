@@ -1,81 +1,77 @@
-# ¡Hola! 👋 Soy Juan David Ducuara Molina
+# Hola, soy Juan David Ducuara 👋
 
-### 💻 Desarrollador Full Stack | Bogotá, Colombia
+**Desarrollador Full Stack** · C# / ASP.NET Core · Angular · SQL Server · Bogotá, Colombia 🇨🇴
 
-Tecnólogo en análisis y desarrollo de sistemas de información con experiencia en desarrollo backend y frontend. Apasionado por crear soluciones efectivas y eficientes, siempre en aprendizaje continuo.
+Tecnólogo en Análisis y Desarrollo de Sistemas con enfoque en **backend y arquitectura de aplicaciones**. Construyo sistemas empresariales donde importan la seguridad, la integración con otros sistemas y la mantenibilidad a largo plazo.
 
----
-
-## 🚀 Sobre mí
-
-- 🔭 Actualmente trabajando como **Desarrollador Full Stack en NyG Soft**
-- 🌱 Especializado en **PHP, C#, Java, React, Vue y bases de datos SQL**
-- 💡 Me enfoco en la creación de APIs RESTful y aplicaciones web escalables
-- 🎯 Habilidad clave: **Resolución de problemas complejos con soluciones innovadoras**
-- 🌐 Portafolio: [juandaducuara.github.io](https://juandaducuara.github.io/portafolioweb-juan-ducuara/)
-- 📫 Contáctame: **jducuara82@gmail.com**
+[![Portafolio](https://img.shields.io/badge/Portafolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juandaducuara.github.io/portafolioweb-juan-ducuara/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/juandaducuara)
+[![Email](https://img.shields.io/badge/jducuara82@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jducuara82@gmail.com)
+[![CV](https://img.shields.io/badge/Descargar_CV-1F2937?style=for-the-badge&logo=readdotcv&logoColor=white)](https://juandaducuara.github.io/portafolioweb-juan-ducuara/cv-juan-ducuara.pdf)
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🔭 Ahora mismo
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- 💼 **Ingeniero de Desarrollo en Risk Consulting**: construyo de punta a punta una plataforma de gestión de riesgo y cumplimiento (KYC / SAGRILAFT / PTEE) con **Angular 21** (SSR, zoneless, signals) y **ASP.NET Core 9** sobre SQL Server.
+- 🧩 Formularios dinámicos **guiados por metadata**: un formulario nuevo se crea solo con datos, sin tocar código.
+- 🔐 SSO con **Microsoft Entra ID**, JWT con refresh tokens, control de acceso por rol y recurso, firma electrónica con **Adobe Sign**.
+- 🚀 CI/CD en **Azure DevOps** con versionado CalVer y promoción entre ambientes.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![PrimeReact](https://img.shields.io/badge/PrimeReact-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+## 📌 Proyectos destacados
 
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+| Proyecto | Qué demuestra | Stack |
+|---|---|---|
+| [**OutletRentalCars**](https://github.com/juandaducuara/PruebaTecnicaBBrowserTravel) | API de búsqueda y reserva de vehículos con **Clean Architecture** en 4 capas, **CQRS con MediatR**, eventos de dominio y pruebas unitarias y de integración | .NET 9 · EF Core · MySQL · MongoDB · xUnit · Moq |
+| [**Antojitos POS**](https://github.com/juandaducuara/PruebaRiskAntijitos) | Sistema de punto de venta full stack en monorepo, con autenticación JWT, migraciones EF Core y flujo **Git Flow** | Angular 16 · Angular Material · ASP.NET Core 6 |
+| [**API de Gestión de Usuarios**](https://github.com/juandaducuara/pruebatecnicaCoink) | API REST con Repository, Service Layer, DTOs, validaciones con **FluentValidation** y stored procedures | .NET 8 · PostgreSQL |
+| [**Portafolio web**](https://github.com/juandaducuara/portafolioweb-juan-ducuara) | Sitio bilingüe ES/EN con Context API, pruebas y despliegue continuo con GitHub Actions | React 18 · GitHub Pages |
 
----
+## 🛠️ Stack
 
-## 💼 Experiencia Profesional
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,react,vue,php,laravel,java,spring,mysql,postgres,mongodb,git,azure,jquery&perline=8" alt="C#, .NET, Angular, TypeScript, React, Vue, PHP, Laravel, Java, Spring, MySQL, PostgreSQL, MongoDB, Git, Azure, jQuery" />
+</p>
 
-### 🏢 NyG Soft - Desarrollador Full Stack
-**Abril 2024 - Presente**
+- **Backend:** C# / ASP.NET Core, ASP.NET MVC 5, EF Core, ADO.NET, PHP (Laravel, CodeIgniter 4), Java (Spring Boot)
+- **Frontend:** Angular 21, TypeScript, React (PrimeReact), Vue.js (PrimeVue), jQuery
+- **Bases de datos:** SQL Server, MySQL, PostgreSQL, Oracle, MongoDB
+- **Seguridad e integraciones:** JWT, OAuth 2.0 / OpenID Connect (Entra ID), Adobe Sign, SMTP, APIs REST
+- **Arquitectura y DevOps:** Clean Architecture, SOLID, CQRS, Azure DevOps, Git Flow, xUnit, Vitest
 
-- Desarrollo y mantenimiento de aplicaciones web con PHP (Laravel, CodeIgniter 4) y C# (.NET)
-- Implementación de interfaces dinámicas con React (PrimeReact), Vue (PrimeVue) y jQuery
-- Diseño y consumo de APIs RESTful
-- Gestión y optimización de bases de datos MySQL
-- Análisis y diseño técnico en entornos colaborativos
+## 💼 Experiencia
 
-### 🎓 AOA Colombia - Practicante
-**Agosto 2023 - Marzo 2024**
+| Empresa | Cargo | Periodo |
+|---|---|---|
+| Risk Consulting | Ingeniero de Desarrollo | Mar 2026 - Actualidad |
+| NyGSoft SAS | Desarrollador Full Stack | Abr 2024 - Feb 2026 |
+| AOA Colombia | Practicante de Desarrollo de Sistemas | Ago 2023 - Feb 2024 |
 
-- Desarrollo de módulos con PHP y Laravel
-- Implementación de controladores, rutas y migraciones
-- Integración con MySQL y modelado de bases de datos
-- Pruebas funcionales y depuración
+🎓 Tecnólogo en ADSI (SENA) · Java y Spring Boot G6, Oracle Next Education (Alura LATAM) · 🌐 Inglés B1
 
 ---
 
-## 📚 Certificaciones
+<details>
+<summary>🇺🇸 <b>English version</b></summary>
 
-- ✅ **Java y Spring Boot G6** - Oracle Next Education | Alura LATAM (2024)
-- ✅ **Spring Boot 3: API Rest en Java** - Alura LATAM (2024)
-- ✅ **Spring Data JPA** - Alura LATAM (2024)
-- ✅ **Documentación y Testing de APIs** - Alura LATAM (2024)
+### Hi, I'm Juan David Ducuara 👋
 
----
+**Full Stack Developer** · C# / ASP.NET Core · Angular · SQL Server · Bogotá, Colombia
 
-## 🌐 Conéctate conmigo
+Systems Analysis and Development technologist focused on **backend and application architecture**. I build enterprise systems where security, systems integration and long-term maintainability matter.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandaducuara)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://juandaducuara.github.io/portafolioweb-juan-ducuara/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jducuara82@gmail.com)
+**Currently**
+- 💼 **Software Development Engineer at Risk Consulting**: building a risk management and compliance platform end to end with **Angular 21** and **ASP.NET Core 9** on SQL Server.
+- 🧩 **Metadata-driven** dynamic forms: new forms are created with data only, without touching code.
+- 🔐 SSO with **Microsoft Entra ID**, JWT with refresh tokens, role- and resource-based access control, e-signature with **Adobe Sign**.
+- 🚀 CI/CD in **Azure DevOps** with CalVer versioning and environment promotion.
 
----
+**Featured projects**
+- [**OutletRentalCars**](https://github.com/juandaducuara/PruebaTecnicaBBrowserTravel): Clean Architecture, CQRS with MediatR, domain events, unit and integration tests (.NET 9, MySQL, MongoDB).
+- [**Antojitos POS**](https://github.com/juandaducuara/PruebaRiskAntijitos): full stack point-of-sale monorepo with JWT and Git Flow (Angular 16, ASP.NET Core 6).
+- [**User Management API**](https://github.com/juandaducuara/pruebatecnicaCoink): REST API with Repository, Service Layer and FluentValidation (.NET 8, PostgreSQL).
+- [**Portfolio**](https://github.com/juandaducuara/portafolioweb-juan-ducuara): bilingual React site with tests and continuous deployment.
 
-⭐️ **"Aprendizaje continuo y soluciones innovadoras"** ⭐️
+**Experience:** Risk Consulting (2026 - present) · NyGSoft SAS (2024 - 2026) · AOA Colombia (2023 - 2024) · English level: B1
+
+</details>
